@@ -1,0 +1,18 @@
+{
+    "name": "xobin-video",
+    "version": "1.0.0",
+    "description": "Xobin Video Chat",
+    "main": "index.html",
+    "scripts": {
+        "start": "node server/server"
+    },
+    "author": "Kumaresan",
+    "license": "ISC",
+    "devDependencies": {
+        "node-static": "^0.7.7"
+    },
+    "dependencies": {
+        "node-static": "^0.7.7",
+        "socket.io": "^1.3.6"
+    }
+}
